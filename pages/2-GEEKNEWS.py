@@ -206,6 +206,12 @@ def get_cleaned_geeknews():
     except:
         return []
 
+with st.sidebar:
+    if st.button("Go to Home", use_container_width=True):
+        st.switch_page("Home.py")
+    if st.button("Go to Ranking", use_container_width=True):
+        st.switch_page("pages/1-Ranking.py")
+
 # --- 티커 렌더링 ---
 market_data = get_market_data()
 ticker_html_content = ""

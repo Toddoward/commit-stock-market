@@ -106,9 +106,8 @@ with st.sidebar:
     st.divider()
     if st.button("Go to Home", use_container_width=True):
         st.switch_page("Home.py")
-    st.divider()
-    if st.button("Go to Geek News", use_container_width=True):
-        st.switch_page("2-GEEKNEWS.py")
+    if st.button("Go to GeekNews", use_container_width=True):
+        st.switch_page("pages/2-GEEKNEWS.py")
 
 # --- 티커 렌더링 ---
 market_data = get_market_data()

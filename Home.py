@@ -250,6 +250,12 @@ for item in market_data:
 
 ticker_html_content += """<span class="ticker-item">GITHUB: <span class="up">OPERATIONAL</span></span><span class="ticker-item">MARKET: <span class="up">OPEN 24/7</span></span>"""
 
+with st.sidebar:
+    if st.button("Go to Ranking", use_container_width=True):
+        st.switch_page("pages/1-Ranking.py")
+    if st.button("Go to GeekNews", use_container_width=True):
+        st.switch_page("pages/2-GEEKNEWS.py")
+
 # 티커 렌더링
 st.markdown(f"""
 <div class="ticker-wrap">

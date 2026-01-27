@@ -15,6 +15,18 @@
 
 **Commit Stock Market**은 GitHub 커밋 활동을 **주식 시장 메타포**로 해석하여, 개발자의 활동 패턴을 정량적으로 분석하는 플랫폼입니다.
 
+---
+
+## 👥 프로젝트 참여자
+
+| | | | |
+|--------|--------|--------|--------|
+| <img src="https://avatars.githubusercontent.com/u/91007890?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/220745933?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/117342548?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/252138302?v=4" width="150"> |
+| [Toddoward](https://github.com/Toddoward) | [ccsm5782](https://github.com/ccsm5782) | [spjniu](https://github.com/spjniu) | [wkdtngur951-droid](https://github.com/wkdtngur951-droid) |
+| • DB 데이터 구조 설계 <br>• DB 데이터 업데이트 및 탐색 기능 | • GeekNews 자동 수집 기능 | • 페이지 설계 및 디자인 | • Ranking 알고리즘 설계 |
+
+---
+
 ### 🎯 핵심 기능
 
 | 기능 | 설명 |
