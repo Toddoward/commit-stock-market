@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 이 프로젝트는 **Streamlit Community Cloud**를 통해 배포되었습니다.  
-👉 **[서비스 바로가기](https://commit-stock-market.streamlit.app/)**
+👉 **[서비스 바로가기](https://commit-stock-market-season2.streamlit.app/)**
 
 ---
 
