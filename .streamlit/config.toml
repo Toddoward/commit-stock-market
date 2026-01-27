@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#ffd700"          # 포인트 컬러 (금색)
+backgroundColor = "#0e1117"       # 전체 배경색 (다크)
+secondaryBackgroundColor = "#1e293b" # 입력창, 사이드바 배경
+textColor = "#ffffff"             # 기본 글자색
+font = "sans serif"
